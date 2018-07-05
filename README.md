@@ -8,7 +8,7 @@
     git commit -m "first commit"                                                                                               
     git push -u origin master                                                                                                 
                                                                               
-// GIT commands for rebase //                                                                              
+// GIT commands for rebase  //                                                                              
     git rebase -i master   
     squash multiple commit to one mostly first one
     :wq
