@@ -9,9 +9,9 @@
     git push -u origin master                                                                                                 
                                                                               
 // GIT commands for rebase  //                                                                              
-    git rebase -i master
-    squash multiple commit to one mostly first one
-    :wq
-    delete comments keep one comment
-    :wq
-    git push origin -f branchName
+    git rebase -i master                                                                                   
+    squash multiple commit to one mostly first one                                                                                   
+    :wq                                                                                   
+    delete comments keep one comment                                                                                   
+    :wq                                                                                   
+    git push origin -f branchName                                                                                   
