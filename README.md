@@ -11,9 +11,9 @@
 // GIT commands for rebase  //                                                                              
     git rebase -i master                                                                                   
     squash multiple commit to one mostly first one                                                                             
-    :wq                                                                                   
-    delete comments keep one comment                                                                                   
-    :wq                                                                                   
+    Esc :wq                                                                                   
+    delete comments using d and keep one comment                                                                               
+    Esc :wq                                                                                   
     git push origin -f branchName                                                                                   
 
 // Git checkout //
