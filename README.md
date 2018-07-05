@@ -1,5 +1,5 @@
 # Git-Basic
-//  GIT commands for uploading a project in git  //
+// GIT commands for uploading a project in git  //
     rm -rf .git
     git init
     git status
